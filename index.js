@@ -1,1 +1,1 @@
-module.exports = require('preact-hyperscript').createElement;
+module.exports = require('preact-hyperscript_pr3b').createElement;
