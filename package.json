@@ -1,6 +1,6 @@
 {
   "name": "preact-hyperscript-h",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Shortcut to preact-hyperscript's createElement",
   "main": "index.js",
   "repository": "laggingreflex/preact-hyperscript-h",
